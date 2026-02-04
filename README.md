@@ -49,7 +49,7 @@ Includes:
 ## How to Run the Project
 
 1. Clone repository:
-git clone https://github.com/your-username/API-Integration-Data-Visualization.git
+git clone https://github.com/Supriya-03092005/API-INTEGRATION-AND-DATA-VISUALIZATION
 
 2. Install dependencies:
 pip install -r requirements.txt
@@ -60,6 +60,7 @@ pip install -r requirements.txt
 - Cleaned dataset
 - Graphical representation
 - Dashboards
+  <img width="742" height="580" alt="Image" src="https://github.com/user-attachments/assets/bb179c85-12c2-4720-9709-add51cd6140e" />
 
 ## Future Enhancements
 - Interactive charts using Plotly/Dash
@@ -71,4 +72,4 @@ pip install -r requirements.txt
 - Automated updates
 - User filters
 
-<img width="742" height="580" alt="Image" src="https://github.com/user-attachments/assets/bb179c85-12c2-4720-9709-add51cd6140e" />
+
